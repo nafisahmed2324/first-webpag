@@ -1,0 +1,22 @@
+.topic{
+    text-align: center;
+}
+.block1{
+    background-color: aqua;
+}
+.inline1{
+    /* display: block; */
+    /* text-align: center; */
+    background-color: rgb(166, 96, 232);
+    text-align: right;
+}
+.block2{
+    background-color: bisque;
+    text-align: center;
+    border-bottom: 3px solid red;
+    /* display: inline-block; */
+    display: inline;
+}
+.box1{
+    text-align: center;
+}
